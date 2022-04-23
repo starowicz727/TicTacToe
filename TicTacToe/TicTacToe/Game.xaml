@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TicTacToe.Game">
+    <ContentPage.Content>
+        <Grid BackgroundColor="Black"
+              Padding="50,50,50,50">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>                
+            </Grid.ColumnDefinitions>
+
+           
+            <Button x:Name="btn00"
+                    BorderWidth="5"
+                    BorderColor="DarkViolet"
+                    BackgroundColor="Black"
+                    TextColor="DarkViolet"
+                    FontSize="Header"
+                    Grid.Row="0"
+                    Grid.Column="0"
+                    Clicked="btn_Clicked"/>
+            <Button x:Name="btn01"
+                    BorderWidth="5"
+                    BorderColor="DarkViolet"
+                    BackgroundColor="Black"
+                    TextColor="DarkViolet"
+                    FontSize="Header"
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    Clicked="btn_Clicked"/>
+            <Button x:Name="btn02"
+                    BorderWidth="5"
+                    BorderColor="DarkViolet"
+                    BackgroundColor="Black"
+                    TextColor="DarkViolet"
+                    FontSize="Header"
+                    Grid.Row="0"
+                    Grid.Column="2"
+                    Clicked="btn_Clicked"/>
+            <Button x:Name="btn10"
+                    BorderWidth="5"
+                    BorderColor="DarkViolet"
+                    BackgroundColor="Black"
+                    TextColor="DarkViolet"
+                    FontSize="Header"
+                    Grid.Row="1"
+                    Grid.Column="0"
+                    Clicked="btn_Clicked"/>
+            <Button x:Name="btn11"
+                    BorderWidth="5"
+                    BorderColor="DarkViolet"
+                    BackgroundColor="Black"
+                    TextColor="DarkViolet"
+                    FontSize="Header"
+                    Grid.Row="1"
+                    Grid.Column="1"
+                    Clicked="btn_Clicked"/>
+            <Button x:Name="btn12"
+                    BorderWidth="5"
+                    BorderColor="DarkViolet"
+                    BackgroundColor="Black"
+                    TextColor="DarkViolet"
+                    FontSize="Header"
+                    Grid.Row="1"
+                    Grid.Column="2"
+                    Clicked="btn_Clicked"/>
+            <Button x:Name="btn20"
+                    BorderWidth="5"
+                    BorderColor="DarkViolet"
+                    BackgroundColor="Black"
+                    TextColor="DarkViolet"
+                    FontSize="Header"
+                    Grid.Row="2"
+                    Grid.Column="0"
+                    Clicked="btn_Clicked"/>
+            <Button x:Name="btn21"
+                    BorderWidth="5"
+                    BorderColor="DarkViolet"
+                    BackgroundColor="Black"
+                    TextColor="DarkViolet"
+                    FontSize="Header"
+                    Grid.Row="2"
+                    Grid.Column="1"
+                    Clicked="btn_Clicked"/>
+            <Button x:Name="btn22"
+                    BorderWidth="5"
+                    BorderColor="DarkViolet"
+                    BackgroundColor="Black"
+                    TextColor="DarkViolet"
+                    FontSize="Header"
+                    Grid.Row="2"
+                    Grid.Column="2"
+                    Clicked="btn_Clicked"/>
+        </Grid>
+    </ContentPage.Content>
+</ContentPage>

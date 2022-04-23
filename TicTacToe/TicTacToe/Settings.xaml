@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TicTacToe.Settings">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" Padding="0,70,0,0" Background="violet"> 
+
+        <!-- <Grid Padding="0,70,0,0" Background="violet"> -->
+
+            <Label x:Name="label1" Text="GAME MODE" 
+                   FontSize="Large" 
+                   HorizontalOptions="Center" 
+                   TextColor="Black"/>
+            <RadioButton x:Name="rbtnEasy" 
+                         GroupName="rbtnMode" 
+                         Content=" EASY " 
+                         Value="Easy" 
+                         FontSize="Large" 
+                         HorizontalOptions="Center"  
+                         TextColor="Black" 
+                         CheckedChanged="rbtn_CheckedChanged"/>
+            <RadioButton x:Name="rbtnMedium" 
+                         GroupName="rbtnMode" 
+                         Content="MEDIUM" 
+                         Value="Medium" 
+                         FontSize="Large" 
+                         HorizontalOptions="Center" 
+                         TextColor="Black"
+                         CheckedChanged="rbtn_CheckedChanged"/>
+            <RadioButton x:Name="rbtnHard"
+                         GroupName="rbtnMode" 
+                         Content="HARD" 
+                         Value="Hard" 
+                         FontSize="Large" 
+                         HorizontalOptions="Center" 
+                         TextColor="Black"
+                         CheckedChanged="rbtn_CheckedChanged"/>
+
+            <!-- </Grid> -->
+        </StackLayout> 
+    </ContentPage.Content>
+</ContentPage>
+

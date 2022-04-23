@@ -1,0 +1,17 @@
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.AssemblyReference.cache
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\Game.xaml.g.cs
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\Menu.xaml.g.cs
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\Settings.xaml.g.cs
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfoInputs.cache
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.AssemblyInfo.cs
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.csproj.CoreCompileInputs.cache
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.deps.json
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.dll
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\bin\Debug\netstandard2.0\TicTacToe.pdb
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\XamlC.stamp
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.dll
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\ref\TicTacToe.dll
+D:\cross platform\TicTacToe\TicTacToe\TicTacToe\obj\Debug\netstandard2.0\TicTacToe.pdb
